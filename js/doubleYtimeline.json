@@ -1,0 +1,289 @@
+{
+    "code": "N01",
+    "message": "调用成功",
+    "contents": {
+        "list": [
+            {
+                "data": [],
+                "month": 1
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 2
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 3
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 4
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 5
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "3200.0",
+                        "purchase_total_price": "80000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 6
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "1600.0",
+                        "purchase_total_price": "40000.0",
+                        "purchase_price_unit": "None",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽二叶开展"
+                    }
+                ],
+                "month": 7
+            },
+            {
+                "data": [],
+                "month": 8
+            },
+            {
+                "data": [],
+                "month": 9
+            },
+            {
+                "data": [],
+                "month": 10
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "14.0",
+                        "purchase_total_price": "1400.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "6.0",
+                        "purchase_total_price": "600.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "8.0",
+                        "purchase_total_price": "800.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "二芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "8.0",
+                        "purchase_total_price": "800.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "二芽一叶开展"
+                    }
+                ],
+                "month": 11
+            },
+            {
+                "data": [
+                    {
+                        "purchase_total_weight": "14.0",
+                        "purchase_total_price": "1400.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "6.0",
+                        "purchase_total_price": "600.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "一芽一叶开展"
+                    },
+                    {
+                        "purchase_total_weight": "8.0",
+                        "purchase_total_price": "800.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "二芽一叶初展"
+                    },
+                    {
+                        "purchase_total_weight": "8.0",
+                        "purchase_total_price": "800.0",
+                        "purchase_price_unit": "元",
+                        "purchase_weight_unit": "kg",
+                        "product_name": "二芽一叶开展"
+                    }
+                ],
+                "month": 12
+            }
+        ],
+        "size": 12
+    }
+}
